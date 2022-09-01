@@ -1,7 +1,7 @@
 # students_books_API
 tools used: nodejs (express), mongoDB(mongoose)
 
-download and run **npm install**
+download and run **npm install**  then run **node index.js**
 
 ***API End Points***
 
